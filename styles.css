@@ -1,0 +1,171 @@
+body {
+	background-color: #000000;
+}
+
+#basil_title 
+{
+	background-image: linear-gradient(to right, #333333, #000000, #000000);
+	padding-left: 50px;
+	height: 80px;
+	line-height: 80px;
+	width: 100%;
+	letter-spacing: 10px;
+	font-size: 50px;
+	vertical-align: middle;
+}
+
+#basil {
+	color: #FFFFFF;
+	font-family: "Ubuntu";
+	letter-spacing: 5px;
+	font-size: 18px;
+	min-width: 1000px;
+}
+
+#basil_game
+{
+	width: 800px;
+	height: 600px;
+	border: 10px solid #FFFFFF;
+	border-radius: 10px;
+}
+
+#basil_text
+{
+	padding-top: 100px;
+}
+
+#basil_line
+{
+	padding-top: 25px;
+	width:80%;
+}
+
+#basil_buttons
+{
+	min-width: 1000px;
+	width: 50%;
+	letter-spacing: 50px;
+	padding-top: 25px;
+	padding-bottom: 100px;
+}
+
+#ldjam_button
+{
+	background-color: #000000;
+	color: #AAAAAA;
+	border: 2px solid #AAAAAA;
+	padding: 15px 15px;
+	border-radius: 12px;
+	text-align: center;
+	display: inline-block;
+	font-family: "Ubuntu";
+	letter-spacing: 3px;
+	font-size: 18px;
+	transition-duration: 0.2s;
+}
+#ldjam_button:hover { border:2px solid #008CC8; color: #008CC8; }
+#ldjam_button:active { background-color: #FFFFFF }
+
+#itchio_button
+{
+	background-color: #000000;
+	color: #AAAAAA;
+	border: 2px solid #AAAAAA;
+	padding: 15px 15px;
+	border-radius: 12px;
+	text-align: center;
+	display: inline-block;
+	font-family: "Ubuntu";
+	letter-spacing: 3px;
+	font-size: 18px;
+	transition-duration: 0.2s;
+}
+#itchio_button:hover { border: 2px solid #FA58FF; color: #FA58FF; }
+#itchio_button:active { background-color: #FFFFFF }
+
+#homepage_button
+{
+	background-color: #000000;
+	color: #AAAAAA;
+	border: 2px solid #AAAAAA;
+	padding: 15px 15px;
+	border-radius: 12px;
+	text-align: center;
+	display: inline-block;
+	font-family: "Ubuntu";
+	letter-spacing: 3px;
+	font-size: 18px;
+	transition-duration: 0.2s;
+}
+#homepage_button:hover { border: 2px solid #3CFFDF; color: #3CFFDF; }
+#homepage_button:active { background-color: #FFFFFF }
+
+
+
+
+#basil_instructions
+{
+	color: #FFFFFF;
+	font-family: "Ubuntu";
+	width: 800px;
+	font-size: 18px;
+	padding-top: 25px;
+	padding-bottom: 100px;
+	letter-spacing: 3px;
+	width: 800px;
+}
+
+#divider_line
+{
+	padding-top: 25px;
+	width:80%;
+}
+
+#basil_description
+{
+	color: #FFFFFF;
+	font-family: "Ubuntu";
+	width: 800px;
+	font-size: 18px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	letter-spacing: 3px;
+	width: 800px;
+}
+
+#basil_img_wrapper
+{
+	padding-bottom:25px;
+}
+
+#basil_img
+{
+	width: 800px;
+	border: 10px solid #FFFFFF;
+	border-radius: 10px;
+}
+
+
+
+
+#footer
+{
+	color: #FFFFFF;
+	font-family: "Ubuntu";
+	letter-spacing: 5px;
+	font-size: 18px;
+	min-width: 1000px;
+}
+
+#footer_line
+{
+	padding-top: 100px;
+	width:80%;
+}
+
+#footer_text
+{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
